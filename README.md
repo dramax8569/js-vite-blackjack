@@ -1,4 +1,4 @@
-# Juego de Blackjack!!!!!!!
+# Juego de Blackjack !!!!!!!
 
 Este es un juego de blackjack en el que el objetivo es llegar a 21 antes que el oponente. El juego está diseñado para dos jugadores: uno y la computadora.
 
