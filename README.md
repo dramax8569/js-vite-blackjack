@@ -6,14 +6,14 @@ Este es un juego de blackjack en el que el objetivo es llegar a 21 antes que el 
 
 ## Contenido
 
-- [Tecnologías-utilizadas](#Tecnologías-utilizadas)
- - [Instrucciones de juego](https://github.com/matiassingers/awesome-readme)
- - [FAQ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Como desplegue este proyecto en Github pages?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Como desplegue este proyecto en Netlify?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Tecnologías utilizadas](#Tecnologías-utilizadas)
+- [Instrucciones de juego](https://github.com/matiassingers/awesome-readme)
+- [FAQ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Como desplegue este proyecto en Github pages?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Como desplegue este proyecto en Netlify?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Tecnologías-utilizadas
+## Tecnologías utilizadas
 
 Este juego ha sido desarrollado utilizando las siguientes tecnologías:
 
