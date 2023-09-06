@@ -95,8 +95,6 @@ https://dramax8569.github.io/js-vite-blackjack/
 
 ## Como desplegue este proyecto en netlify?
 
-<br>
-
 #### Registro en Netlify:
 Si aún no tienes una cuenta en Netlify, ve al sitio web de Netlify (https://www.netlify.com/) y regístrate.
 
@@ -105,7 +103,6 @@ Inicia sesión en tu cuenta de Netlify con las credenciales que has proporcionad
 
 #### Dashboard de Netlify:
 Una vez que hayas iniciado sesión, serás dirigido al dashboard de Netlify.
-
 
 [![Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png](https://i.postimg.cc/8c05Gv46/Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png)](https://postimg.cc/Wq0j6hQN)
 
