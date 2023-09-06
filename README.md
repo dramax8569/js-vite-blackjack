@@ -99,10 +99,11 @@ https://dramax8569.github.io/js-vite-blackjack/
 #### Registro en Netlify:
 <br>
 Si aún no tienes una cuenta en Netlify, ve al sitio web de Netlify (https://www.netlify.com/) y regístrate.
-<br>
+
 #### Inicio de sesión:
-Inicia sesión en tu cuenta de Netlify con las credenciales que has proporcionado durante el registro.
 <br>
+Inicia sesión en tu cuenta de Netlify con las credenciales que has proporcionado durante el registro.
+
 #### Dashboard de Netlify:
 Una vez que hayas iniciado sesión, serás dirigido al dashboard de Netlify.
 
