@@ -91,3 +91,17 @@ Recuerda que GitHub Pages es ideal para proyectos estáticos, como sitios web es
 sigue este link para poder ver y jugar al blackjack:
 
 https://dramax8569.github.io/js-vite-blackjack/
+
+#### Como desplegue este proyecto en netlify?
+
+[![Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png](https://i.postimg.cc/8c05Gv46/Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png)](https://postimg.cc/Wq0j6hQN)
+
+[![Opera-Instanta-nea-2023-09-05-185933-app-netlify-com.png](https://i.postimg.cc/g0W0GmVN/Opera-Instanta-nea-2023-09-05-185933-app-netlify-com.png)](https://postimg.cc/Mn9wDkrQ)
+
+[![Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png](https://i.postimg.cc/qRmBcK95/Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png)](https://postimg.cc/phFtRmVf)
+
+[![Opera-Instanta-nea-2023-09-05-190052-app-netlify-com.png](https://i.postimg.cc/dV8qHpbd/Opera-Instanta-nea-2023-09-05-190052-app-netlify-com.png)](https://postimg.cc/dhVPDHtt)
+
+[![Opera-Instanta-nea-2023-09-05-190133-app-netlify-com.png](https://i.postimg.cc/3wY3P9hq/Opera-Instanta-nea-2023-09-05-190133-app-netlify-com.png)](https://postimg.cc/gxt9hVny)
+
+[![Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png](https://i.postimg.cc/DZznzZ8d/Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png)](https://postimg.cc/LqGrCmkn)
