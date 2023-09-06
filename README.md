@@ -97,11 +97,9 @@ https://dramax8569.github.io/js-vite-blackjack/
 <br>
 
 #### Registro en Netlify:
-<br>
 Si aún no tienes una cuenta en Netlify, ve al sitio web de Netlify (https://www.netlify.com/) y regístrate.
 
 #### Inicio de sesión:
-<br>
 Inicia sesión en tu cuenta de Netlify con las credenciales que has proporcionado durante el registro.
 
 #### Dashboard de Netlify:
@@ -121,5 +119,4 @@ Una vez que hayas iniciado sesión, serás dirigido al dashboard de Netlify.
 [![Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png](https://i.postimg.cc/DZznzZ8d/Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png)](https://postimg.cc/LqGrCmkn)
 
 #### Gestionar y actualizar tu sitio:
-<br>
 A partir de este punto, Netlify seguirá supervisando tu repositorio de Git para detectar cambios y desplegar automáticamente las actualizaciones. Puedes configurar notificaciones y otras opciones en la configuración de tu sitio.
