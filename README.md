@@ -10,7 +10,7 @@ Este es un juego de blackjack en el que el objetivo es llegar a 21 antes que el 
  - [Instrucciones de juego](https://github.com/matiassingers/awesome-readme)
  - [FAQ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [Como desplegue este proyecto en Github pages?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Como puedes ver este proyecto en Github pages?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Como desplegue este proyecto en Netlify?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Tecnologías utilizadas
@@ -47,7 +47,7 @@ Una vez que las dependencias se hayan instalado, ejecuta el comando npm run dev 
 Abre tu navegador web y navega a http://localhost:3000 para ver el juego en acción.
 ¡Diviértete jugando!
 
-#### Como desplegue este proyecto en Github pages?
+## Como desplegue este proyecto en Github pages?
 
 Para desplegar un proyecto en GitHub Pages, sigue estos pasos:
 
@@ -92,7 +92,7 @@ sigue este link para poder ver y jugar al blackjack:
 
 https://dramax8569.github.io/js-vite-blackjack/
 
-#### Como desplegue este proyecto en netlify?
+## Como desplegue este proyecto en netlify?
 
 <br>
 
