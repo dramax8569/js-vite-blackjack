@@ -122,11 +122,34 @@ Autentica tu cuenta de Git y otorga permisos para acceder a tus repositorios.
 
 [![Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png](https://i.postimg.cc/qRmBcK95/Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png)](https://postimg.cc/phFtRmVf)
 
+#### Seleccionar el repositorio y la rama:
+
+Después de autenticar, selecciona el repositorio que deseas desplegar y la rama (normalmente, la rama principal) que quieres usar para el despliegue.
+
+#### Configurar las opciones de construcción:
+
+Configura las opciones de construcción según las necesidades de tu proyecto. Esto incluye el comando de construcción y la carpeta de distribución.
+
 [![Opera-Instanta-nea-2023-09-05-190052-app-netlify-com.png](https://i.postimg.cc/dV8qHpbd/Opera-Instanta-nea-2023-09-05-190052-app-netlify-com.png)](https://postimg.cc/dhVPDHtt)
+
+#### Iniciar el despliegue:
+Haz clic en el botón "Deploy site" o una opción similar para iniciar el proceso de despliegue.
+
+#### Esperar a que se complete el despliegue:
+Netlify iniciará automáticamente el proceso de construcción y despliegue de tu proyecto. Puedes ver el progreso en el dashboard.
+
+#### Acceder al sitio desplegado:
+Una vez que el despliegue haya terminado con éxito, Netlify te proporcionará una URL única para tu sitio web desplegado. Puedes acceder a tu sitio web a través de esta URL.
 
 [![Opera-Instanta-nea-2023-09-05-190133-app-netlify-com.png](https://i.postimg.cc/3wY3P9hq/Opera-Instanta-nea-2023-09-05-190133-app-netlify-com.png)](https://postimg.cc/gxt9hVny)
 
 [![Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png](https://i.postimg.cc/DZznzZ8d/Opera-Instanta-nea-2023-09-05-190218-app-netlify-com.png)](https://postimg.cc/LqGrCmkn)
+
+#### Acceder al sitio desplegado:
+Una vez que el despliegue haya terminado con éxito, Netlify te proporcionará una URL única para tu sitio web desplegado. Puedes acceder a tu sitio web a través de esta URL.
+
+#### Configuración de dominio personalizado (opcional):
+Si deseas usar tu propio nombre de dominio en lugar de la URL proporcionada por Netlify, puedes configurar un dominio personalizado en la sección de configuración de tu sitio.
 
 #### Gestionar y actualizar tu sitio:
 A partir de este punto, Netlify seguirá supervisando tu repositorio de Git para detectar cambios y desplegar automáticamente las actualizaciones. Puedes configurar notificaciones y otras opciones en la configuración de tu sitio.
