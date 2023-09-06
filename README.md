@@ -48,7 +48,7 @@ Una vez que las dependencias se hayan instalado, ejecuta el comando npm run dev 
 Abre tu navegador web y navega a http://localhost:3000 para ver el juego en acción.
 ¡Diviértete jugando!
 
-## Como desplegue este proyecto en Github pages?
+## Cómo desplegué este proyecto en Github Pages?
 
 Para desplegar un proyecto en GitHub Pages, sigue estos pasos:
 
@@ -93,7 +93,7 @@ sigue este link para poder ver y jugar al blackjack:
 
 https://dramax8569.github.io/js-vite-blackjack/
 
-## Como desplegue este proyecto en netlify?
+## Cómo desplegué este proyecto en Netlify?
 
 #### Registro en Netlify:
 Si aún no tienes una cuenta en Netlify, ve al sitio web de Netlify (https://www.netlify.com/) y regístrate.
