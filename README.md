@@ -108,6 +108,16 @@ Una vez que hayas iniciado sesión, serás dirigido al dashboard de Netlify.
 
 [![Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png](https://i.postimg.cc/8c05Gv46/Opera-Instanta-nea-2023-09-05-185851-app-netlify-com.png)](https://postimg.cc/Wq0j6hQN)
 
+#### Creación de un nuevo sitio:
+
+Haz clic en el botón "New site from Git" o "New site" en la parte superior derecha del dashboard.
+
+#### Conectar tu repositorio de Git:
+
+Netlify permite conectar directamente tu repositorio de Git (por ejemplo, GitHub, GitLab o Bitbucket) para habilitar el despliegue automático cada vez que se actualice tu repositorio.
+Selecciona la plataforma de control de versiones que estás utilizando.
+Autentica tu cuenta de Git y otorga permisos para acceder a tus repositorios.
+
 [![Opera-Instanta-nea-2023-09-05-185933-app-netlify-com.png](https://i.postimg.cc/g0W0GmVN/Opera-Instanta-nea-2023-09-05-185933-app-netlify-com.png)](https://postimg.cc/Mn9wDkrQ)
 
 [![Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png](https://i.postimg.cc/qRmBcK95/Opera-Instanta-nea-2023-09-05-190028-app-netlify-com.png)](https://postimg.cc/phFtRmVf)
